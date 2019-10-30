@@ -2,7 +2,7 @@ package = "kong-plugin-cookies-to-headers"
 version = "1.0-2"
 local pluginName = "cookies-to-headers"
 source = {
-  url = "https://github.com/scmp-contributor/kong-plugin-cookies-to-headers.git",
+  url = "git://github.com/scmp-contributor/kong-plugin-cookies-to-headers.git",
 }
 description = {
   summary = "A Kong plugin that will convert cookies into headers",
